@@ -7,6 +7,8 @@
   * Land Composition?
 * Urban model
   * Citizen
+    * Skills
+    * Occupation
   * Lots
   * Buildings
   * Ownership (Citizen -> Lot/Building)
